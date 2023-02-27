@@ -1,1 +1,3 @@
-return "ChineseEgg"
+return {
+ "ChineseEgg"
+}
